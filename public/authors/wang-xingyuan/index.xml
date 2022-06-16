@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wang Xingyuan | Academic</title>
+    <link>/authors/wang-xingyuan/</link>
+      <atom:link href="/authors/wang-xingyuan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wang Xingyuan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 16 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Wang Xingyuan</title>
+      <link>/authors/wang-xingyuan/</link>
+    </image>
+    
+    <item>
+      <title>An image encryption algorithm based on new chaos and diffusion values of a truth table</title>
+      <link>/publication/an-image-encryption-algorithm-based-on-new-chaos-and-diffusion-values-of-a-truth-table/</link>
+      <pubDate>Thu, 16 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/an-image-encryption-algorithm-based-on-new-chaos-and-diffusion-values-of-a-truth-table/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
